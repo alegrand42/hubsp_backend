@@ -1,0 +1,9 @@
+#################################
+# HUBSPOT
+#################################
+HUBSPOT_API_KEY: "123"
+HUBSPOT_USER_ID: "123"
+CLIENT_ID: "123"
+CLIENT_SECRET: "123"
+PORTAL_ID: "123"
+ACCESS_TOKEN: "123"
